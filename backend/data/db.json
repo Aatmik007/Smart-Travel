@@ -1710,6 +1710,364 @@
       "phone": "",
       "profilePic": "",
       "createdAt": "2026-10-21T18:11:02.865Z"
+    },
+    {
+      "_id": "mock_h52podkdg",
+      "name": "Analytics Admin",
+      "email": "admin_p3_1792609015376@test.com",
+      "password": "$2a$10$5Ns2cG7HJmsqRAgFIAZN9uAb4qTR3TzbR2HMpHafsC6mcqFVZZb4i",
+      "role": "admin",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:55.606Z",
+      "updatedAt": "2026-10-21T18:56:55.635Z"
+    },
+    {
+      "_id": "mock_4wm96p7o2",
+      "name": "Analytics Driver",
+      "email": "driver_p3_1792609015376@test.com",
+      "password": "$2a$10$wsUVGsBjo5/hhluPdYoBmeViIVn1viN0zLzX.vpWIv0530XwHzXOi",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:55.773Z"
+    },
+    {
+      "_id": "mock_esryuc2aj",
+      "name": "Commuter One",
+      "email": "pass1_p3_1792609015376@test.com",
+      "password": "$2a$10$CNnA8oeElNlPYKvQ6hosLO8/G.eNEG/AZeOWiiWwYeWAVsudEmYfO",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:56.006Z"
+    },
+    {
+      "_id": "mock_f99nveot2",
+      "name": "Commuter Two",
+      "email": "pass2_p3_1792609015376@test.com",
+      "password": "$2a$10$IBiFJEDUtsQmTroJ386GEeSxlD6HJk1XsEvVine22IP7A/GR2hNLq",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:56.160Z"
+    },
+    {
+      "_id": "mock_08ymny706",
+      "name": "Phase4 Driver",
+      "email": "driver_p4_1792609017942@test.com",
+      "password": "$2a$10$yKwb.vHdub8i59Raz3fMzO8HBp/nABLEkhDIBIlvvmHwOj6ziwItO",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:58.155Z"
+    },
+    {
+      "_id": "mock_3touftdc0",
+      "name": "Other Driver",
+      "email": "other_drv_1792609018249@test.com",
+      "password": "$2a$10$VXclZxj7/FWhIGE4Y7kzG.EMGK85Aww2ZEcKxbXBvTB.BoIFLtuAK",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:58.387Z"
+    },
+    {
+      "_id": "mock_hh6sbgxi5",
+      "name": "Passenger One",
+      "email": "p1_1792609018437@test.com",
+      "password": "$2a$10$btlRBHE9tpEa99YZg0CPeecuH3tMVPpUoL1ACazto7.QTpqcH32QC",
+      "role": "passenger",
+      "phone": "+91-94191-11111",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:58.596Z"
+    },
+    {
+      "_id": "mock_3aj1orp5c",
+      "name": "Passenger Two",
+      "email": "p2_1792609018606@test.com",
+      "password": "$2a$10$1bWnTkPoQJwOiXmcxHCyW.OGGGMEN2USKzhRK0ukAcW9MrFr6PaTu",
+      "role": "passenger",
+      "phone": "+91-94191-22222",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:58.747Z"
+    },
+    {
+      "_id": "mock_8ib7euehy",
+      "name": "Passenger Three",
+      "email": "p3_1792609018757@test.com",
+      "password": "$2a$10$b7amXJY/K4T2xKjg0jkRVuOO31eUClijz2RzrYGMnwzgt.SuSHKfq",
+      "role": "passenger",
+      "phone": "+91-94191-33333",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:56:58.885Z"
+    },
+    {
+      "_id": "mock_jqxf0kg4s",
+      "name": "Phase 5 Admin",
+      "email": "admin_p5_1792609022045@test.com",
+      "password": "password123",
+      "role": "admin",
+      "createdAt": "2026-10-21T18:57:02.048Z"
+    },
+    {
+      "_id": "mock_zalm735p8",
+      "name": "Phase 5 Driver",
+      "email": "driver_p5_1792609022060@test.com",
+      "password": "$2a$10$IS4ygUSmrbz2ZWwG/lb.ROYyS8wf2XyJNL/daZAC7wB9M/8fxQfHi",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:02.297Z"
+    },
+    {
+      "_id": "mock_h0d7fhe6h",
+      "name": "Phase 5 Commuter",
+      "email": "commuter_p5_1792609022394@test.com",
+      "password": "$2a$10$xOzMo1D4wlCHPuwLrA4AUO4rQ9gOi7fSnLbmAVU1QsbiYqm.NaAEW",
+      "role": "passenger",
+      "phone": "+91-94191-88888",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:02.557Z"
+    },
+    {
+      "_id": "mock_qbo1qftq9",
+      "name": "RBAC Passenger",
+      "email": "passenger_rbac_1792609026092@test.com",
+      "password": "$2a$10$blH6o5jKBvEWfh5DRCLbHOTD2aKMiKopA3Ne6VfyXTAugqnDDQ7em",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:06.234Z"
+    },
+    {
+      "_id": "mock_8aerkttc4",
+      "name": "New Driver",
+      "email": "driver_unapproved_1792609026244@test.com",
+      "password": "$2a$10$AAoH2KGv4FGPj05QvO3pu.0oSH0y1QD0/2ayJMc.gyH7dd26pIUva",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:06.386Z"
+    },
+    {
+      "_id": "mock_pvn9afnq7",
+      "name": "Approved Driver",
+      "email": "driver_approved_1792609026436@test.com",
+      "password": "$2a$10$ZeD7S2Mrhp0zrecyDkTZm.gc0ioj/WVS5DaP.zdBu7WIVeF/HiNI.",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:06.567Z"
+    },
+    {
+      "_id": "mock_45ijdnay0",
+      "name": "Jammu Commuter",
+      "email": "testuser_1792609029895@jammutest.com",
+      "password": "$2a$10$D1NFbprdBegy4jgapJEso.kvtgG3inoKAvKdy8ghi13E8PgT5F1LC",
+      "role": "passenger",
+      "phone": "+91 94191-99887",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:10.064Z"
+    },
+    {
+      "_id": "mock_kpdz838kx",
+      "name": "Booking Driver",
+      "email": "driver_bk_1792609031653@test.com",
+      "password": "$2a$10$Rm2MuCit5hySpTfaoghTsOM948ASVi.y4PDkQpN2EoxYZUtkwn3fC",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:11.863Z"
+    },
+    {
+      "_id": "mock_oq60lx1oy",
+      "name": "Booking Passenger",
+      "email": "passenger_bk_1792609031948@test.com",
+      "password": "$2a$10$MuQpl8lz0gce1lX2bHz8ieRGSvIeesIrw/AA2soGFSMR1xs5NJk3a",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T18:57:12.098Z"
+    },
+    {
+      "_id": "mock_mknqvopey",
+      "name": "Analytics Admin",
+      "email": "admin_p3_1792609418434@test.com",
+      "password": "$2a$10$dOhauMXsLsEG.Eele6pRvuMgwzz9v8zx8RMJNNqE119zAhjHLP1v.",
+      "role": "admin",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:38.656Z",
+      "updatedAt": "2026-10-21T19:03:38.687Z"
+    },
+    {
+      "_id": "mock_nyi550xu2",
+      "name": "Analytics Driver",
+      "email": "driver_p3_1792609418434@test.com",
+      "password": "$2a$10$F9tOLIWOtBkjmM6kxif4Y.3O1V.b0yVXLUTStS4lR76yhCsvDTEj.",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:38.829Z"
+    },
+    {
+      "_id": "mock_s3vous9o8",
+      "name": "Commuter One",
+      "email": "pass1_p3_1792609418434@test.com",
+      "password": "$2a$10$6g9KKmgnV1kJx8koX1bsEO5yD7bUNkPdsAfTdnAG9SENKHqZKmBgK",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:39.025Z"
+    },
+    {
+      "_id": "mock_mpv3qktlb",
+      "name": "Commuter Two",
+      "email": "pass2_p3_1792609418434@test.com",
+      "password": "$2a$10$A7/k5kSrz.dVV/gyuU5i9OoUTffbsdejWL0Oppa0mKip7hMxKrghO",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:39.178Z"
+    },
+    {
+      "_id": "mock_wc4g631o5",
+      "name": "Phase4 Driver",
+      "email": "driver_p4_1792609420861@test.com",
+      "password": "$2a$10$/Fw0BHjFnPiktTQlaLxtTuJEdvnErCZQSpWbkyN/TP15sJMfX7QNy",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:41.072Z"
+    },
+    {
+      "_id": "mock_8nmphptkv",
+      "name": "Other Driver",
+      "email": "other_drv_1792609421156@test.com",
+      "password": "$2a$10$3kOj/LkgGDYwkpoUuMzbQubYiccuI82Kt3v8JADb1DI37OoTmdo4a",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:41.290Z"
+    },
+    {
+      "_id": "mock_x3mfrsx2u",
+      "name": "Passenger One",
+      "email": "p1_1792609421342@test.com",
+      "password": "$2a$10$19.bpKvcGQrwNH7bnUSqke9QeA1qn.xmFdtEFQ4LZ2mS2/s0v1rpa",
+      "role": "passenger",
+      "phone": "+91-94191-11111",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:41.486Z"
+    },
+    {
+      "_id": "mock_ogh3o8hfo",
+      "name": "Passenger Two",
+      "email": "p2_1792609421494@test.com",
+      "password": "$2a$10$QXC8PjNvJohb3JeAXadebukt/eu3FyYYaabqioL37vJ7auWpHXNM6",
+      "role": "passenger",
+      "phone": "+91-94191-22222",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:41.642Z"
+    },
+    {
+      "_id": "mock_5hou1me9y",
+      "name": "Passenger Three",
+      "email": "p3_1792609421652@test.com",
+      "password": "$2a$10$U2Qxbj.jpIc2WSOzlAudTOT0mppi//6YijtFXg00HJl.0Dq22wl3i",
+      "role": "passenger",
+      "phone": "+91-94191-33333",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:41.842Z"
+    },
+    {
+      "_id": "mock_gl6zc3tzf",
+      "name": "Phase 5 Admin",
+      "email": "admin_p5_1792609425085@test.com",
+      "password": "password123",
+      "role": "admin",
+      "createdAt": "2026-10-21T19:03:45.088Z"
+    },
+    {
+      "_id": "mock_n7ztr3s8d",
+      "name": "Phase 5 Driver",
+      "email": "driver_p5_1792609425098@test.com",
+      "password": "$2a$10$sltUBmhKG70u96UphQJosO.C40d0V/lDFNdCdivI67YxILQkZxFB.",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:45.311Z"
+    },
+    {
+      "_id": "mock_0dqhjx8cr",
+      "name": "Phase 5 Commuter",
+      "email": "commuter_p5_1792609425427@test.com",
+      "password": "$2a$10$ajlYjxBdrYr1.pGRWMCxWOZ1T2FAUMyL4qEMeAKdqx1HgBktQVIdu",
+      "role": "passenger",
+      "phone": "+91-94191-88888",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:45.575Z"
+    },
+    {
+      "_id": "mock_fk8zgm0yr",
+      "name": "RBAC Passenger",
+      "email": "passenger_rbac_1792609429234@test.com",
+      "password": "$2a$10$Zbl02orsZC389QZTQ0eUH.DdtrmyCTOOU2uJmH5k23kAeyKBx2URO",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:49.367Z"
+    },
+    {
+      "_id": "mock_6cqxbf20w",
+      "name": "New Driver",
+      "email": "driver_unapproved_1792609429376@test.com",
+      "password": "$2a$10$6wVkSHWN/CFGmPjyLXkxa./RBBHZr74m3.nv2.ob4eTLnObw7N7sC",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:49.519Z"
+    },
+    {
+      "_id": "mock_3v5m643yw",
+      "name": "Approved Driver",
+      "email": "driver_approved_1792609429568@test.com",
+      "password": "$2a$10$coHo9gOTCQVQ6HZgF.EvNu3vwBtExbpp/AXe2qDDiRowF1LkaIYaO",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:49.703Z"
+    },
+    {
+      "_id": "mock_cgoykphyp",
+      "name": "Jammu Commuter",
+      "email": "testuser_1792609433204@jammutest.com",
+      "password": "$2a$10$9Oi5pIUhTqQ0o4eSPiwGOOo58GoEd0IE5lysyrWYXGzsn1DH6Jn8S",
+      "role": "passenger",
+      "phone": "+91 94191-99887",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:53.353Z"
+    },
+    {
+      "_id": "mock_wuh2syfmd",
+      "name": "Booking Driver",
+      "email": "driver_bk_1792609435004@test.com",
+      "password": "$2a$10$OREP4MHbPiwnrQzVban7r.LsNeizHdOQkLZk3Jeem5HXMLxJBYiBu",
+      "role": "driver",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:55.220Z"
+    },
+    {
+      "_id": "mock_ua326efdn",
+      "name": "Booking Passenger",
+      "email": "passenger_bk_1792609435303@test.com",
+      "password": "$2a$10$gxn7gnotB7Xn4JEGCZ6M9eM92lGvexmt8AkGQwNRdEF8dACIEnBlS",
+      "role": "passenger",
+      "phone": "",
+      "profilePic": "",
+      "createdAt": "2026-10-21T19:03:55.441Z"
     }
   ],
   "drivers": [
@@ -2363,6 +2721,140 @@
       "isApproved": true,
       "createdAt": "2026-10-21T18:11:02.689Z",
       "updatedAt": "2026-10-21T18:11:02.721Z"
+    },
+    {
+      "_id": "mock_y13bz4men",
+      "userId": "mock_4wm96p7o2",
+      "licenseNumber": "JK02-P3001",
+      "rating": 5,
+      "vehicleId": "mock_t2dgtxvr1",
+      "isApproved": false,
+      "createdAt": "2026-10-21T18:56:55.820Z"
+    },
+    {
+      "_id": "mock_kon0tbfdn",
+      "userId": "mock_08ymny706",
+      "licenseNumber": "JK02-P4DRV",
+      "rating": 5,
+      "vehicleId": "mock_c5rnvasb9",
+      "isApproved": true,
+      "createdAt": "2026-10-21T18:56:58.213Z",
+      "updatedAt": "2026-10-21T18:56:58.243Z"
+    },
+    {
+      "_id": "mock_aqytqblba",
+      "userId": "mock_3touftdc0",
+      "licenseNumber": "JK02-OTHER",
+      "rating": 5,
+      "vehicleId": "mock_546p5xccs",
+      "isApproved": false,
+      "createdAt": "2026-10-21T18:56:58.429Z"
+    },
+    {
+      "_id": "mock_dkjujoyr9",
+      "userId": "mock_zalm735p8",
+      "licenseNumber": "JK02-P5DRV",
+      "rating": 5,
+      "vehicleId": "mock_jt7fb54cr",
+      "isApproved": true,
+      "createdAt": "2026-10-21T18:57:02.347Z",
+      "updatedAt": "2026-10-21T18:57:02.388Z"
+    },
+    {
+      "_id": "mock_2yevq3m35",
+      "userId": "mock_8aerkttc4",
+      "licenseNumber": "JK02-UNAPPROVED",
+      "rating": 5,
+      "vehicleId": "mock_sshnbsqeu",
+      "isApproved": false,
+      "createdAt": "2026-10-21T18:57:06.428Z"
+    },
+    {
+      "_id": "mock_1nub1djqo",
+      "userId": "mock_pvn9afnq7",
+      "licenseNumber": "JK02-APPROVED",
+      "rating": 5,
+      "vehicleId": "mock_elhzanikb",
+      "isApproved": true,
+      "createdAt": "2026-10-21T18:57:06.610Z",
+      "updatedAt": "2026-10-21T18:57:06.638Z"
+    },
+    {
+      "_id": "mock_u28rrozn1",
+      "userId": "mock_kpdz838kx",
+      "licenseNumber": "JK02-BK001",
+      "rating": 5,
+      "vehicleId": "mock_cvex1o2j2",
+      "isApproved": true,
+      "createdAt": "2026-10-21T18:57:11.911Z",
+      "updatedAt": "2026-10-21T18:57:11.943Z"
+    },
+    {
+      "_id": "mock_bebmpik7w",
+      "userId": "mock_nyi550xu2",
+      "licenseNumber": "JK02-P3001",
+      "rating": 5,
+      "vehicleId": "mock_cijkfpo6p",
+      "isApproved": false,
+      "createdAt": "2026-10-21T19:03:38.871Z"
+    },
+    {
+      "_id": "mock_2xo2nunxp",
+      "userId": "mock_wc4g631o5",
+      "licenseNumber": "JK02-P4DRV",
+      "rating": 5,
+      "vehicleId": "mock_yjz28bbf1",
+      "isApproved": true,
+      "createdAt": "2026-10-21T19:03:41.118Z",
+      "updatedAt": "2026-10-21T19:03:41.152Z"
+    },
+    {
+      "_id": "mock_1rgqn6h44",
+      "userId": "mock_8nmphptkv",
+      "licenseNumber": "JK02-OTHER",
+      "rating": 5,
+      "vehicleId": "mock_bftz2x98x",
+      "isApproved": false,
+      "createdAt": "2026-10-21T19:03:41.333Z"
+    },
+    {
+      "_id": "mock_xqhom0un8",
+      "userId": "mock_n7ztr3s8d",
+      "licenseNumber": "JK02-P5DRV",
+      "rating": 5,
+      "vehicleId": "mock_jxqf7dfsh",
+      "isApproved": true,
+      "createdAt": "2026-10-21T19:03:45.382Z",
+      "updatedAt": "2026-10-21T19:03:45.421Z"
+    },
+    {
+      "_id": "mock_jja0zvee6",
+      "userId": "mock_6cqxbf20w",
+      "licenseNumber": "JK02-UNAPPROVED",
+      "rating": 5,
+      "vehicleId": "mock_dep7ed70e",
+      "isApproved": false,
+      "createdAt": "2026-10-21T19:03:49.559Z"
+    },
+    {
+      "_id": "mock_mjv6plxa8",
+      "userId": "mock_3v5m643yw",
+      "licenseNumber": "JK02-APPROVED",
+      "rating": 5,
+      "vehicleId": "mock_bgzemb5yn",
+      "isApproved": true,
+      "createdAt": "2026-10-21T19:03:49.748Z",
+      "updatedAt": "2026-10-21T19:03:49.772Z"
+    },
+    {
+      "_id": "mock_2xrylivtx",
+      "userId": "mock_wuh2syfmd",
+      "licenseNumber": "JK02-BK001",
+      "rating": 5,
+      "vehicleId": "mock_3qy2n4dq5",
+      "isApproved": true,
+      "createdAt": "2026-10-21T19:03:55.265Z",
+      "updatedAt": "2026-10-21T19:03:55.299Z"
     }
   ],
   "vehicles": [
@@ -2977,6 +3469,132 @@
       "capacity": 4,
       "type": "car",
       "createdAt": "2026-10-21T18:11:02.667Z"
+    },
+    {
+      "_id": "mock_t2dgtxvr1",
+      "driverId": "mock_4wm96p7o2",
+      "model": "Toyota Innova",
+      "plateNumber": "JK02P3-9999",
+      "capacity": 6,
+      "type": "car",
+      "createdAt": "2026-10-21T18:56:55.798Z"
+    },
+    {
+      "_id": "mock_c5rnvasb9",
+      "driverId": "mock_08ymny706",
+      "model": "Hyundai Creta",
+      "plateNumber": "JK02-9999",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T18:56:58.180Z"
+    },
+    {
+      "_id": "mock_546p5xccs",
+      "driverId": "mock_3touftdc0",
+      "model": "Maruti Swift",
+      "plateNumber": "JK02-1111",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T18:56:58.408Z"
+    },
+    {
+      "_id": "mock_jt7fb54cr",
+      "driverId": "mock_zalm735p8",
+      "model": "Toyota Innova",
+      "plateNumber": "JK02-5555",
+      "capacity": 6,
+      "type": "car",
+      "createdAt": "2026-10-21T18:57:02.324Z"
+    },
+    {
+      "_id": "mock_sshnbsqeu",
+      "driverId": "mock_8aerkttc4",
+      "model": "Hyundai i20",
+      "plateNumber": "JK02AB-9999",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T18:57:06.408Z"
+    },
+    {
+      "_id": "mock_elhzanikb",
+      "driverId": "mock_pvn9afnq7",
+      "model": "Maruti Dzire",
+      "plateNumber": "JK02CD-1111",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T18:57:06.589Z"
+    },
+    {
+      "_id": "mock_cvex1o2j2",
+      "driverId": "mock_kpdz838kx",
+      "model": "Maruti Brezza",
+      "plateNumber": "JK02EF-2222",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T18:57:11.886Z"
+    },
+    {
+      "_id": "mock_cijkfpo6p",
+      "driverId": "mock_nyi550xu2",
+      "model": "Toyota Innova",
+      "plateNumber": "JK02P3-9999",
+      "capacity": 6,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:38.849Z"
+    },
+    {
+      "_id": "mock_yjz28bbf1",
+      "driverId": "mock_wc4g631o5",
+      "model": "Hyundai Creta",
+      "plateNumber": "JK02-9999",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:41.097Z"
+    },
+    {
+      "_id": "mock_bftz2x98x",
+      "driverId": "mock_8nmphptkv",
+      "model": "Maruti Swift",
+      "plateNumber": "JK02-1111",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:41.313Z"
+    },
+    {
+      "_id": "mock_jxqf7dfsh",
+      "driverId": "mock_n7ztr3s8d",
+      "model": "Toyota Innova",
+      "plateNumber": "JK02-5555",
+      "capacity": 6,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:45.354Z"
+    },
+    {
+      "_id": "mock_dep7ed70e",
+      "driverId": "mock_6cqxbf20w",
+      "model": "Hyundai i20",
+      "plateNumber": "JK02AB-9999",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:49.539Z"
+    },
+    {
+      "_id": "mock_bgzemb5yn",
+      "driverId": "mock_3v5m643yw",
+      "model": "Maruti Dzire",
+      "plateNumber": "JK02CD-1111",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:49.725Z"
+    },
+    {
+      "_id": "mock_3qy2n4dq5",
+      "driverId": "mock_wuh2syfmd",
+      "model": "Maruti Brezza",
+      "plateNumber": "JK02EF-2222",
+      "capacity": 4,
+      "type": "car",
+      "createdAt": "2026-10-21T19:03:55.245Z"
     }
   ],
   "trips": [
@@ -8079,6 +8697,1258 @@
       "status": "active",
       "createdAt": "2026-10-21T18:11:02.894Z",
       "updatedAt": "2026-10-21T18:11:03.097Z"
+    },
+    {
+      "_id": "mock_dbq349rok",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 75,
+      "departureTime": "2026-10-21T20:56:58.896Z",
+      "availableSeats": 0,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:58.912Z",
+      "updatedAt": "2026-10-21T18:56:58.948Z"
+    },
+    {
+      "_id": "mock_0ypvudr3t",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:56:59.054Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.067Z",
+      "updatedAt": "2026-10-21T18:56:59.104Z"
+    },
+    {
+      "_id": "mock_upn0nwpf8",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 80,
+      "departureTime": "2026-10-21T20:56:59.190Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.201Z",
+      "updatedAt": "2026-10-21T18:56:59.231Z"
+    },
+    {
+      "_id": "mock_m6z44lrj7",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 80,
+      "departureTime": "2026-10-21T20:56:59.356Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.366Z",
+      "updatedAt": "2026-10-21T18:56:59.517Z"
+    },
+    {
+      "_id": "mock_0dyg18ro9",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-21T20:56:59.556Z",
+      "availableSeats": 3,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.566Z",
+      "updatedAt": "2026-10-21T18:56:59.689Z"
+    },
+    {
+      "_id": "mock_xy4qqa5p0",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:56:59.746Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.758Z",
+      "updatedAt": "2026-10-21T18:56:59.906Z"
+    },
+    {
+      "_id": "mock_u2hnvudhy",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:56:59.977Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:56:59.990Z",
+      "updatedAt": "2026-10-21T18:57:00.022Z"
+    },
+    {
+      "_id": "mock_ch2wss2s2",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:57:00.096Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:00.106Z",
+      "updatedAt": "2026-10-21T18:57:00.138Z"
+    },
+    {
+      "_id": "mock_thxe0ipki",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 70,
+      "departureTime": "2026-10-21T20:57:00.217Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:00.232Z",
+      "updatedAt": "2026-10-21T18:57:00.265Z"
+    },
+    {
+      "_id": "mock_x6vzkftwg",
+      "type": "carpool",
+      "driverId": "mock_08ymny706",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-21T20:57:00.353Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "cancelled",
+      "createdAt": "2026-10-21T18:57:00.363Z",
+      "updatedAt": "2026-10-21T18:57:00.471Z"
+    },
+    {
+      "_id": "mock_ixvkn5f6f",
+      "type": "carpool",
+      "driverId": "mock_zalm735p8",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 55,
+      "departureTime": "2026-10-22T18:57:02.566Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:02.586Z"
+    },
+    {
+      "_id": "mock_p174d6cyd",
+      "type": "carpool",
+      "driverId": "mock_zalm735p8",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-23T18:57:02.593Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:02.613Z"
+    },
+    {
+      "_id": "mock_wgd471qf1",
+      "type": "carpool",
+      "driverId": "mock_zalm735p8",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 65,
+      "departureTime": "2026-10-24T18:57:02.620Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:02.637Z"
+    },
+    {
+      "_id": "mock_t4q1ocovs",
+      "type": "carpool",
+      "driverId": "mock_pvn9afnq7",
+      "routeName": "Jewel Chowk ➔ Satwari Carpool",
+      "startLocation": {
+        "name": "Jewel Chowk",
+        "lat": 32.7291,
+        "lng": 74.8617
+      },
+      "endLocation": {
+        "name": "Satwari",
+        "lat": 32.6888,
+        "lng": 74.8622
+      },
+      "path": [
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.7291,
+          "lng": 74.8617
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.70895,
+          "lng": 74.86195
+        },
+        {
+          "name": "Satwari",
+          "lat": 32.6888,
+          "lng": 74.8622
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:57:06.683Z",
+      "availableSeats": 3,
+      "stops": [
+        "Gandhi Nagar"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T18:57:06.699Z"
+    },
+    {
+      "_id": "mock_bb1vms8xe",
+      "type": "carpool",
+      "driverId": "mock_kpdz838kx",
+      "routeName": "Jammu University ➔ Channi Himmat Carpool",
+      "startLocation": {
+        "name": "Jammu University",
+        "lat": 32.7163,
+        "lng": 74.8647
+      },
+      "endLocation": {
+        "name": "Channi Himmat",
+        "lat": 32.6953,
+        "lng": 74.8967
+      },
+      "path": [
+        {
+          "name": "Jammu University",
+          "lat": 32.7163,
+          "lng": 74.8647
+        },
+        {
+          "name": "Railway Station",
+          "lat": 32.7058,
+          "lng": 74.8807
+        },
+        {
+          "name": "Channi Himmat",
+          "lat": 32.6953,
+          "lng": 74.8967
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T19:57:12.108Z",
+      "availableSeats": 1,
+      "stops": [
+        "Railway Station"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-21T18:57:12.124Z",
+      "updatedAt": "2026-10-21T18:57:12.343Z"
+    },
+    {
+      "_id": "mock_st6547417",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 75,
+      "departureTime": "2026-10-21T21:03:41.852Z",
+      "availableSeats": 0,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:41.870Z",
+      "updatedAt": "2026-10-21T19:03:41.902Z"
+    },
+    {
+      "_id": "mock_309b02in4",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T21:03:41.995Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.007Z",
+      "updatedAt": "2026-10-21T19:03:42.034Z"
+    },
+    {
+      "_id": "mock_dauign7mi",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 80,
+      "departureTime": "2026-10-21T21:03:42.120Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.133Z",
+      "updatedAt": "2026-10-21T19:03:42.161Z"
+    },
+    {
+      "_id": "mock_tpibg7mxf",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 80,
+      "departureTime": "2026-10-21T21:03:42.279Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.291Z",
+      "updatedAt": "2026-10-21T19:03:42.426Z"
+    },
+    {
+      "_id": "mock_upl7qnsyx",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-21T21:03:42.472Z",
+      "availableSeats": 3,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.482Z",
+      "updatedAt": "2026-10-21T19:03:42.705Z"
+    },
+    {
+      "_id": "mock_t6yts6hg8",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T21:03:42.751Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.761Z",
+      "updatedAt": "2026-10-21T19:03:42.888Z"
+    },
+    {
+      "_id": "mock_vwpw8nlrk",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T21:03:42.953Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:42.964Z",
+      "updatedAt": "2026-10-21T19:03:42.994Z"
+    },
+    {
+      "_id": "mock_7z3m8a3s8",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T21:03:43.085Z",
+      "availableSeats": 1,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:43.096Z",
+      "updatedAt": "2026-10-21T19:03:43.127Z"
+    },
+    {
+      "_id": "mock_8nfip0y2j",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 70,
+      "departureTime": "2026-10-21T21:03:43.197Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:43.207Z",
+      "updatedAt": "2026-10-21T19:03:43.241Z"
+    },
+    {
+      "_id": "mock_cea14syux",
+      "type": "carpool",
+      "driverId": "mock_wc4g631o5",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-21T21:03:43.325Z",
+      "availableSeats": 2,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "cancelled",
+      "createdAt": "2026-10-21T19:03:43.335Z",
+      "updatedAt": "2026-10-21T19:03:43.436Z"
+    },
+    {
+      "_id": "mock_ks6pqsr1i",
+      "type": "carpool",
+      "driverId": "mock_n7ztr3s8d",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 55,
+      "departureTime": "2026-10-22T19:03:45.586Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:45.607Z"
+    },
+    {
+      "_id": "mock_hjwb8xsuf",
+      "type": "carpool",
+      "driverId": "mock_n7ztr3s8d",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 60,
+      "departureTime": "2026-10-23T19:03:45.616Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:45.636Z"
+    },
+    {
+      "_id": "mock_onovtai3f",
+      "type": "carpool",
+      "driverId": "mock_n7ztr3s8d",
+      "routeName": "Janipur ➔ Gandhi Nagar Carpool",
+      "startLocation": {
+        "name": "Janipur",
+        "lat": 32.7533,
+        "lng": 74.8461
+      },
+      "endLocation": {
+        "name": "Gandhi Nagar",
+        "lat": 32.7096,
+        "lng": 74.8732
+      },
+      "path": [
+        {
+          "name": "Janipur",
+          "lat": 32.7533,
+          "lng": 74.8461
+        },
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.73145,
+          "lng": 74.85965
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.7096,
+          "lng": 74.8732
+        }
+      ],
+      "price": 65,
+      "departureTime": "2026-10-24T19:03:45.644Z",
+      "availableSeats": 4,
+      "stops": [
+        "Jewel Chowk"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:45.664Z"
+    },
+    {
+      "_id": "mock_y405t7wa1",
+      "type": "carpool",
+      "driverId": "mock_3v5m643yw",
+      "routeName": "Jewel Chowk ➔ Satwari Carpool",
+      "startLocation": {
+        "name": "Jewel Chowk",
+        "lat": 32.7291,
+        "lng": 74.8617
+      },
+      "endLocation": {
+        "name": "Satwari",
+        "lat": 32.6888,
+        "lng": 74.8622
+      },
+      "path": [
+        {
+          "name": "Jewel Chowk",
+          "lat": 32.7291,
+          "lng": 74.8617
+        },
+        {
+          "name": "Gandhi Nagar",
+          "lat": 32.70895,
+          "lng": 74.86195
+        },
+        {
+          "name": "Satwari",
+          "lat": 32.6888,
+          "lng": 74.8622
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T21:03:49.813Z",
+      "availableSeats": 3,
+      "stops": [
+        "Gandhi Nagar"
+      ],
+      "status": "scheduled",
+      "createdAt": "2026-10-21T19:03:49.826Z"
+    },
+    {
+      "_id": "mock_qvjulere3",
+      "type": "carpool",
+      "driverId": "mock_wuh2syfmd",
+      "routeName": "Jammu University ➔ Channi Himmat Carpool",
+      "startLocation": {
+        "name": "Jammu University",
+        "lat": 32.7163,
+        "lng": 74.8647
+      },
+      "endLocation": {
+        "name": "Channi Himmat",
+        "lat": 32.6953,
+        "lng": 74.8967
+      },
+      "path": [
+        {
+          "name": "Jammu University",
+          "lat": 32.7163,
+          "lng": 74.8647
+        },
+        {
+          "name": "Railway Station",
+          "lat": 32.7058,
+          "lng": 74.8807
+        },
+        {
+          "name": "Channi Himmat",
+          "lat": 32.6953,
+          "lng": 74.8967
+        }
+      ],
+      "price": 50,
+      "departureTime": "2026-10-21T20:03:55.450Z",
+      "availableSeats": 1,
+      "stops": [
+        "Railway Station"
+      ],
+      "status": "active",
+      "createdAt": "2026-10-21T19:03:55.470Z",
+      "updatedAt": "2026-10-21T19:03:55.691Z"
     }
   ],
   "bookings": [
@@ -8854,6 +10724,214 @@
       "totalPrice": 50,
       "status": "pending",
       "createdAt": "2026-10-21T18:11:03.020Z"
+    },
+    {
+      "_id": "mock_9w1r2oqph",
+      "tripId": "mock_dbq349rok",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 75,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:56:58.969Z"
+    },
+    {
+      "_id": "mock_0kvw6bnns",
+      "tripId": "mock_0ypvudr3t",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:56:59.128Z"
+    },
+    {
+      "_id": "mock_g7bmg1g7e",
+      "tripId": "mock_upn0nwpf8",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 80,
+      "status": "confirmed",
+      "createdAt": "2026-10-21T18:56:59.252Z",
+      "updatedAt": "2026-10-21T18:56:59.312Z"
+    },
+    {
+      "_id": "mock_q9g0uihv3",
+      "tripId": "mock_m6z44lrj7",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 80,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T18:56:59.427Z",
+      "updatedAt": "2026-10-21T18:56:59.495Z"
+    },
+    {
+      "_id": "mock_gbpkw2wxr",
+      "tripId": "mock_0dyg18ro9",
+      "passengerId": "mock_3aj1orp5c",
+      "seatsBooked": 2,
+      "totalPrice": 120,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T18:56:59.613Z",
+      "updatedAt": "2026-10-21T18:56:59.669Z"
+    },
+    {
+      "_id": "mock_dy8yaraq9",
+      "tripId": "mock_xy4qqa5p0",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T18:56:59.816Z",
+      "updatedAt": "2026-10-21T18:56:59.881Z"
+    },
+    {
+      "_id": "mock_5ztsmpkhm",
+      "tripId": "mock_u2hnvudhy",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:57:00.047Z"
+    },
+    {
+      "_id": "mock_m8byjs0gj",
+      "tripId": "mock_ch2wss2s2",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:57:00.160Z"
+    },
+    {
+      "_id": "mock_vv78mt2mw",
+      "tripId": "mock_thxe0ipki",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 70,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:57:00.286Z"
+    },
+    {
+      "_id": "mock_sfwfv0skk",
+      "tripId": "mock_x6vzkftwg",
+      "passengerId": "mock_hh6sbgxi5",
+      "seatsBooked": 1,
+      "totalPrice": 60,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T18:57:00.415Z",
+      "updatedAt": "2026-10-21T18:57:00.494Z"
+    },
+    {
+      "_id": "mock_c3bkus600",
+      "tripId": "mock_bb1vms8xe",
+      "passengerId": "mock_oq60lx1oy",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T18:57:12.272Z"
+    },
+    {
+      "_id": "mock_sdxc0661f",
+      "tripId": "mock_st6547417",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 75,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:41.923Z"
+    },
+    {
+      "_id": "mock_2vj0y2fey",
+      "tripId": "mock_309b02in4",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:42.055Z"
+    },
+    {
+      "_id": "mock_0k5cr46p8",
+      "tripId": "mock_dauign7mi",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 80,
+      "status": "confirmed",
+      "createdAt": "2026-10-21T19:03:42.184Z",
+      "updatedAt": "2026-10-21T19:03:42.235Z"
+    },
+    {
+      "_id": "mock_km2f3qbq6",
+      "tripId": "mock_tpibg7mxf",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 80,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T19:03:42.345Z",
+      "updatedAt": "2026-10-21T19:03:42.405Z"
+    },
+    {
+      "_id": "mock_onu2zgerv",
+      "tripId": "mock_upl7qnsyx",
+      "passengerId": "mock_ogh3o8hfo",
+      "seatsBooked": 2,
+      "totalPrice": 120,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T19:03:42.558Z",
+      "updatedAt": "2026-10-21T19:03:42.675Z"
+    },
+    {
+      "_id": "mock_byk0naqjy",
+      "tripId": "mock_t6yts6hg8",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T19:03:42.809Z",
+      "updatedAt": "2026-10-21T19:03:42.866Z"
+    },
+    {
+      "_id": "mock_4sc77x71j",
+      "tripId": "mock_vwpw8nlrk",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:43.018Z"
+    },
+    {
+      "_id": "mock_vp2zyz7cn",
+      "tripId": "mock_7z3m8a3s8",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:43.147Z"
+    },
+    {
+      "_id": "mock_e9zkobk37",
+      "tripId": "mock_8nfip0y2j",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 70,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:43.261Z"
+    },
+    {
+      "_id": "mock_fcjl9ag1s",
+      "tripId": "mock_cea14syux",
+      "passengerId": "mock_x3mfrsx2u",
+      "seatsBooked": 1,
+      "totalPrice": 60,
+      "status": "cancelled",
+      "createdAt": "2026-10-21T19:03:43.385Z",
+      "updatedAt": "2026-10-21T19:03:43.460Z"
+    },
+    {
+      "_id": "mock_r5y6ffnb1",
+      "tripId": "mock_qvjulere3",
+      "passengerId": "mock_ua326efdn",
+      "seatsBooked": 1,
+      "totalPrice": 50,
+      "status": "pending",
+      "createdAt": "2026-10-21T19:03:55.613Z"
     }
   ],
   "busRoutes": [
@@ -9244,6 +11322,104 @@
       "contactDetails": "+91 94191-00000",
       "createdAt": "2026-10-21T18:10:57.626Z",
       "updatedAt": "2026-10-21T18:10:57.679Z"
+    },
+    {
+      "_id": "mock_0vpmr8nwb",
+      "reporterId": "mock_esryuc2aj",
+      "itemDescription": "charger",
+      "category": "electronics",
+      "location": "Jammu Transit",
+      "reportType": "lost",
+      "tripId": "General Transit",
+      "status": "reported",
+      "contactDetails": "+91-94191-44444",
+      "createdAt": "2026-10-21T18:56:56.238Z"
+    },
+    {
+      "_id": "mock_qqwauyhuh",
+      "reporterId": "mock_esryuc2aj",
+      "itemDescription": "Black Lenovo 65W Laptop USB-C Charger with thick power cable left on rear bus seat",
+      "category": "electronics",
+      "location": "Route 1A Bus",
+      "reportType": "lost",
+      "tripId": "Route 1A Bus",
+      "status": "reported",
+      "contactDetails": "Commuter One - +91-94191-11223",
+      "createdAt": "2026-10-21T18:56:56.276Z"
+    },
+    {
+      "_id": "mock_3vlf6esfv",
+      "reporterId": "mock_f99nveot2",
+      "itemDescription": "Found black Lenovo 65W laptop charger under seat in Route 1A bus near Jewel Chowk",
+      "category": "electronics",
+      "location": "Route 1A Bus",
+      "reportType": "found",
+      "tripId": "Route 1A Bus",
+      "status": "found",
+      "contactDetails": "Commuter Two - +91-94191-99887",
+      "createdAt": "2026-10-21T18:56:56.321Z"
+    },
+    {
+      "_id": "mock_ped6n57mf",
+      "reporterId": "mock_qbo1qftq9",
+      "itemDescription": "Blue umbrella left in auto",
+      "category": "clothing",
+      "location": "Jammu Transit",
+      "reportType": "lost",
+      "tripId": "General Transit",
+      "status": "claimed",
+      "contactDetails": "+91 94191-00000",
+      "createdAt": "2026-10-21T18:57:06.727Z",
+      "updatedAt": "2026-10-21T18:57:06.790Z"
+    },
+    {
+      "_id": "mock_iqe3jzb2i",
+      "reporterId": "mock_s3vous9o8",
+      "itemDescription": "charger",
+      "category": "electronics",
+      "location": "Jammu Transit",
+      "reportType": "lost",
+      "tripId": "General Transit",
+      "status": "reported",
+      "contactDetails": "+91-94191-44444",
+      "createdAt": "2026-10-21T19:03:39.267Z"
+    },
+    {
+      "_id": "mock_63hqng0ch",
+      "reporterId": "mock_s3vous9o8",
+      "itemDescription": "Black Lenovo 65W Laptop USB-C Charger with thick power cable left on rear bus seat",
+      "category": "electronics",
+      "location": "Route 1A Bus",
+      "reportType": "lost",
+      "tripId": "Route 1A Bus",
+      "status": "reported",
+      "contactDetails": "Commuter One - +91-94191-11223",
+      "createdAt": "2026-10-21T19:03:39.309Z"
+    },
+    {
+      "_id": "mock_mnsuowyls",
+      "reporterId": "mock_mpv3qktlb",
+      "itemDescription": "Found black Lenovo 65W laptop charger under seat in Route 1A bus near Jewel Chowk",
+      "category": "electronics",
+      "location": "Route 1A Bus",
+      "reportType": "found",
+      "tripId": "Route 1A Bus",
+      "status": "found",
+      "contactDetails": "Commuter Two - +91-94191-99887",
+      "createdAt": "2026-10-21T19:03:39.366Z"
+    },
+    {
+      "_id": "mock_v0vlhdzmj",
+      "reporterId": "mock_fk8zgm0yr",
+      "itemDescription": "Blue umbrella left in auto",
+      "category": "clothing",
+      "location": "Jammu Transit",
+      "reportType": "lost",
+      "tripId": "General Transit",
+      "status": "claimed",
+      "contactDetails": "+91 94191-00000",
+      "createdAt": "2026-10-21T19:03:49.856Z",
+      "updatedAt": "2026-10-21T19:03:49.922Z"
     }
   ],
   "notifications": [
@@ -10278,6 +12454,278 @@
       "message": "Your ride Jammu University ➔ Channi Himmat Carpool status is now: ACTIVE.",
       "type": "status",
       "createdAt": "2026-10-21T18:11:03.121Z"
+    },
+    {
+      "_id": "mock_7vkyy23r0",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:58.993Z"
+    },
+    {
+      "_id": "mock_a17in63zr",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.158Z"
+    },
+    {
+      "_id": "mock_v4sy02e9u",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.279Z"
+    },
+    {
+      "_id": "mock_gnfu6qrsn",
+      "userId": "mock_hh6sbgxi5",
+      "title": "Booking Request Accepted!",
+      "message": "Your booking for 1 seat(s) on Janipur ➔ Gandhi Nagar Carpool has been confirmed by the driver.",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.333Z"
+    },
+    {
+      "_id": "mock_a5fg1m7sl",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.456Z"
+    },
+    {
+      "_id": "mock_dj546mp7n",
+      "userId": "mock_hh6sbgxi5",
+      "title": "Booking Request Declined",
+      "message": "The driver was unable to accept your booking request for Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.536Z"
+    },
+    {
+      "_id": "mock_chsox0hd8",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger Two has requested 2 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.637Z"
+    },
+    {
+      "_id": "mock_6np3rwphx",
+      "userId": "mock_08ymny706",
+      "title": "Booking Cancelled",
+      "message": "Passenger Two cancelled their booking (2 seat(s)) on route Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.712Z"
+    },
+    {
+      "_id": "mock_grebs7158",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.847Z"
+    },
+    {
+      "_id": "mock_915nk21p3",
+      "userId": "mock_08ymny706",
+      "title": "Booking Cancelled",
+      "message": "Passenger One cancelled their booking (1 seat(s)) on route Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:56:59.935Z"
+    },
+    {
+      "_id": "mock_mp38fq95t",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:57:00.071Z"
+    },
+    {
+      "_id": "mock_m223rnytf",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:57:00.186Z"
+    },
+    {
+      "_id": "mock_v3e8mzdzh",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:57:00.312Z"
+    },
+    {
+      "_id": "mock_2eg77jppe",
+      "userId": "mock_08ymny706",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:57:00.441Z"
+    },
+    {
+      "_id": "mock_y0o1rjzb5",
+      "userId": "mock_hh6sbgxi5",
+      "title": "Trip Cancelled by Driver",
+      "message": "Your ride Janipur ➔ Gandhi Nagar Carpool has been cancelled by the driver.",
+      "type": "status",
+      "createdAt": "2026-10-21T18:57:00.517Z"
+    },
+    {
+      "_id": "mock_ykyfdj2pg",
+      "userId": "mock_kpdz838kx",
+      "title": "New Ride Booking Request!",
+      "message": "Booking Passenger has requested 1 seat(s) on your route (Jammu University ➔ Channi Himmat Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T18:57:12.307Z"
+    },
+    {
+      "_id": "mock_ufkqbtqdk",
+      "userId": "mock_oq60lx1oy",
+      "title": "Trip Status Update",
+      "message": "Your ride Jammu University ➔ Channi Himmat Carpool status is now: ACTIVE.",
+      "type": "status",
+      "createdAt": "2026-10-21T18:57:12.369Z"
+    },
+    {
+      "_id": "mock_2zh7x06fq",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:41.946Z"
+    },
+    {
+      "_id": "mock_v2hview52",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.083Z"
+    },
+    {
+      "_id": "mock_1bln8ujhh",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.208Z"
+    },
+    {
+      "_id": "mock_9alac6fbw",
+      "userId": "mock_x3mfrsx2u",
+      "title": "Booking Request Accepted!",
+      "message": "Your booking for 1 seat(s) on Janipur ➔ Gandhi Nagar Carpool has been confirmed by the driver.",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.256Z"
+    },
+    {
+      "_id": "mock_za0n60u0o",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.371Z"
+    },
+    {
+      "_id": "mock_gvqg5lulu",
+      "userId": "mock_x3mfrsx2u",
+      "title": "Booking Request Declined",
+      "message": "The driver was unable to accept your booking request for Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.448Z"
+    },
+    {
+      "_id": "mock_w8y9iboww",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger Two has requested 2 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.631Z"
+    },
+    {
+      "_id": "mock_xhlz7bj6i",
+      "userId": "mock_wc4g631o5",
+      "title": "Booking Cancelled",
+      "message": "Passenger Two cancelled their booking (2 seat(s)) on route Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.729Z"
+    },
+    {
+      "_id": "mock_7f72i649r",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.836Z"
+    },
+    {
+      "_id": "mock_acj5klmz4",
+      "userId": "mock_wc4g631o5",
+      "title": "Booking Cancelled",
+      "message": "Passenger One cancelled their booking (1 seat(s)) on route Janipur ➔ Gandhi Nagar Carpool.",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:42.913Z"
+    },
+    {
+      "_id": "mock_t5vrgdim5",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:43.050Z"
+    },
+    {
+      "_id": "mock_jh9oj2mt3",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:43.172Z"
+    },
+    {
+      "_id": "mock_rlyq886m1",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:43.285Z"
+    },
+    {
+      "_id": "mock_obp9yita6",
+      "userId": "mock_wc4g631o5",
+      "title": "New Ride Booking Request!",
+      "message": "Passenger One has requested 1 seat(s) on your route (Janipur ➔ Gandhi Nagar Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:43.409Z"
+    },
+    {
+      "_id": "mock_ilwyae1js",
+      "userId": "mock_x3mfrsx2u",
+      "title": "Trip Cancelled by Driver",
+      "message": "Your ride Janipur ➔ Gandhi Nagar Carpool has been cancelled by the driver.",
+      "type": "status",
+      "createdAt": "2026-10-21T19:03:43.482Z"
+    },
+    {
+      "_id": "mock_bnrfm2mrx",
+      "userId": "mock_wuh2syfmd",
+      "title": "New Ride Booking Request!",
+      "message": "Booking Passenger has requested 1 seat(s) on your route (Jammu University ➔ Channi Himmat Carpool).",
+      "type": "booking",
+      "createdAt": "2026-10-21T19:03:55.643Z"
+    },
+    {
+      "_id": "mock_uoqnad4ya",
+      "userId": "mock_ua326efdn",
+      "title": "Trip Status Update",
+      "message": "Your ride Jammu University ➔ Channi Himmat Carpool status is now: ACTIVE.",
+      "type": "status",
+      "createdAt": "2026-10-21T19:03:55.721Z"
     }
   ],
   "complaints": [],
@@ -10497,6 +12945,60 @@
       "description": "Bus commute 3",
       "date": "2026-10-21T18:10:53.898Z",
       "createdAt": "2026-10-21T18:10:53.909Z"
+    },
+    {
+      "_id": "mock_q3wzacnck",
+      "userId": "mock_h0d7fhe6h",
+      "amount": 25,
+      "category": "bus",
+      "description": "Bus commute 1",
+      "date": "2026-10-21T18:57:02.650Z",
+      "createdAt": "2026-10-21T18:57:02.658Z"
+    },
+    {
+      "_id": "mock_maht6icjf",
+      "userId": "mock_h0d7fhe6h",
+      "amount": 50,
+      "category": "bus",
+      "description": "Bus commute 2",
+      "date": "2026-10-21T18:57:02.670Z",
+      "createdAt": "2026-10-21T18:57:02.684Z"
+    },
+    {
+      "_id": "mock_6fzj3z8tz",
+      "userId": "mock_h0d7fhe6h",
+      "amount": 75,
+      "category": "bus",
+      "description": "Bus commute 3",
+      "date": "2026-10-21T18:57:02.695Z",
+      "createdAt": "2026-10-21T18:57:02.710Z"
+    },
+    {
+      "_id": "mock_brhgx53lj",
+      "userId": "mock_0dqhjx8cr",
+      "amount": 25,
+      "category": "bus",
+      "description": "Bus commute 1",
+      "date": "2026-10-21T19:03:45.679Z",
+      "createdAt": "2026-10-21T19:03:45.690Z"
+    },
+    {
+      "_id": "mock_m8u9hldnq",
+      "userId": "mock_0dqhjx8cr",
+      "amount": 50,
+      "category": "bus",
+      "description": "Bus commute 2",
+      "date": "2026-10-21T19:03:45.702Z",
+      "createdAt": "2026-10-21T19:03:45.712Z"
+    },
+    {
+      "_id": "mock_goehrs34m",
+      "userId": "mock_0dqhjx8cr",
+      "amount": 75,
+      "category": "bus",
+      "description": "Bus commute 3",
+      "date": "2026-10-21T19:03:45.723Z",
+      "createdAt": "2026-10-21T19:03:45.735Z"
     }
   ]
 }

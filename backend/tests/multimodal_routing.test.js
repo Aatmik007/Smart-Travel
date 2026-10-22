@@ -268,7 +268,13 @@ describe('Multimodal Route Engine & AI Assistant Integration Tests', () => {
 
     assert.strictEqual(res.status, 200);
     const body = await res.json();
-    assert.match(body.reply, /could not determine a verified direct public transit route/i);
-    assert.match(body.reply, /Covered Hubs/i);
+    // The assistant should return a graceful message that lists supported hubs
+    // (either the single-hub "could not find the other location" path or the generic fallback)
+    assert.ok(
+      /could not find the other location/i.test(body.reply) ||
+      /could not determine a verified direct public transit route/i.test(body.reply),
+      `Expected graceful unrecognized-route response, got: ${body.reply.substring(0, 200)}`
+    );
+    assert.match(body.reply, /Supported Transit Hubs|Covered Hubs/i);
   });
 });

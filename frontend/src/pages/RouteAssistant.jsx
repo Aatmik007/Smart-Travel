@@ -144,7 +144,12 @@ const RouteAssistant = () => {
       }
     } catch (err) {
       console.error(err);
-      setPlannerError('Failed to communicate with the routing engine.');
+      const isNetworkError = err instanceof TypeError && err.message.toLowerCase().includes('fetch');
+      setPlannerError(
+        isNetworkError
+          ? 'Could not reach the routing service. Please ensure the server is running and try again.'
+          : 'Failed to calculate route. Please check your inputs and try again.'
+      );
       setPlannerResult(null);
     } finally {
       setPlannerLoading(false);

@@ -1,4 +1,4 @@
-const dbService = require('../data/dbService');
+﻿const dbService = require('../data/dbService');
 const {
   CANONICAL_HUBS,
   findMultimodalRoutes,
@@ -112,12 +112,26 @@ Try checking the **Find Rides** tab on the Passenger Dashboard to see if any com
         }
       }
 
-      // If user mentioned only 1 recognized hub (without asking for a route from/to an unknown destination)
-      if (transitIntent && !transitIntent.hasRouteIntent && transitIntent.singleHub && !msgLower.includes('from') && !msgLower.includes(' to ')) {
-        return res.status(200).json({
-          reply: `I recognized **${transitIntent.singleHub.name}**. Where would you like to travel to or from? 
-For example: *"How do I go from ${transitIntent.singleHub.name} to Jammu Tawi Railway Station?"*`
-        });
+      // Single-hub recognized: differentiate between "tell me about X" vs "X to unknown Y"
+      if (transitIntent && !transitIntent.hasRouteIntent && transitIntent.singleHub) {
+        const hasDirectionalIntent = msgLower.includes('from') || msgLower.includes(' to ')
+          || msgLower.includes('reach') || msgLower.includes('travel') || msgLower.includes('how to get');
+        if (hasDirectionalIntent) {
+          // One endpoint recognized; the other is not in the transit network
+          const hubList = [
+            'Janipur', 'Jewel Chowk', 'Gandhi Nagar', 'Jammu University',
+            'Jammu Tawi Railway Station', 'Channi Himmat', 'Satwari (Airport)',
+            'Talab Tillo', 'Parade Ground', 'Panjtirthi'
+          ].map(h => `• ${h}`).join('\n');
+          return res.status(200).json({
+            reply: `I recognized **${transitIntent.singleHub.name}** but could not find the other location in our Jammu transit network.\n\n**Supported Transit Hubs**:\n${hubList}\n\nTry specifying a journey between two of the above hubs, or switch to the **Journey Planner** tab to select from the verified list.`
+          });
+        } else {
+          // User asked about a single hub with no directional intent
+          return res.status(200).json({
+            reply: `I recognized **${transitIntent.singleHub.name}**. Where would you like to travel to or from?\nFor example: *"How do I go from ${transitIntent.singleHub.name} to Jammu Tawi Railway Station?"*`
+          });
+        }
       }
 
       // If user supplied GEMINI_API_KEY, attempt dynamic AI completion with timeout for general questions
