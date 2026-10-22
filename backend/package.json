@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "node --test --test-concurrency=1 tests/**/*.test.js"
+    "test": "node --test --test-concurrency=1 tests/**/*.test.js",
+    "build": "npm build"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
