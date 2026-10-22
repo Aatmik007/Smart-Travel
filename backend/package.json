@@ -7,7 +7,11 @@
     "start": "node server.js",
     "dev": "node server.js",
     "test": "node --test --test-concurrency=1 tests/**/*.test.js",
+<<<<<<< HEAD
     "build": "npm build"
+=======
+    "build": "npm run build"
+>>>>>>> 6595e14 (Add gitignore and fix build command)
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
